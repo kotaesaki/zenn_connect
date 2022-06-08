@@ -1,9 +1,9 @@
 ---
 title: "エンジニア1年生が行うGemアップデート手順"
-emoji: "🥧"
+emoji: "🐥"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["gem", "rails", "ruby"]
-published: false
+published: true
 ---
 
 # 自己紹介
