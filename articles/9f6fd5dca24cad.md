@@ -3,7 +3,7 @@ title: "GoogleAnalytics 4でボタンにイベントを仕込む"
 emoji: "🐥"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["googleanalytics", "javascript", "typescript"]
-published: false
+published: true
 ---
 
 # 自己紹介
